@@ -194,6 +194,7 @@ int main(){
 		cout<<"8.MAX Query"<<endl;
 		cout<<"9.MIN Query"<<endl;
         cout<<"10.test"<<endl;
+		cout<<"10.Experiment 5"<<endl;
         cout<<"Enter your choice : ";
 		cin>>option;
 		
@@ -818,6 +819,11 @@ int main(){
 					break;
 				}
 			
+
+			case 11:
+				{
+					cout<<"starting experiment 5";
+				}
 			default:
 				cout<<"wrong option\n";
 		
