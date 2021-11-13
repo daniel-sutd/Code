@@ -181,7 +181,7 @@ int main(){
 	
 	while(1){
 		cout<<endl<<"-----------------------"<<endl;
-        cout<<endl<<"Operations"<<endl;
+        cout<<endl<<"Operations:"<<endl;
         cout<<endl<<"-----------------------"<<endl;
 		cout<<"0.Exit"<<endl;
         cout<<"1.Single Dimensional Query"<<endl;
